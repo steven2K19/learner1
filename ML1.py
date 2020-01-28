@@ -1,6 +1,4 @@
 from pandas import read_csv
-import matplotlib as mpl
-mpl.use('Agg')
 from matplotlib import pyplot as plt
 from pandas.plotting import scatter_matrix
 from sklearn.model_selection import train_test_split
@@ -57,7 +55,7 @@ for name, model in models:
     print('%s: %f (%f)' % (name, cv_results.mean(), cv_results.std()))
 # plt.boxplot(results, labels=names)    visualize result
 
-# prediction
+# prediction by SVC, SVC is most accurated algorithm from model comparison
 model = SVC(gamma='auto')
 model.fit(X_train, Y_train)
 predictions = model.predict(X_validation)
