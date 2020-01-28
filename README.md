@@ -1,15 +1,22 @@
-# learner1
+# machine learning for stock selection
+inspired by Keywan Christian Rasekhschaffe Robert C. Jones 
+![1](https://user-images.githubusercontent.com/46503526/73234417-ffee7800-4157-11ea-8234-b99cdce1aa65.PNG)
+
+## list of algorithm
+- Logistic Regression
+- Naive Bayes
+- Linear Discriminant Analysis 
+- Nearest Neighbors KNN
+- Support Vector Machine SVC
+- Decision Tree Classifier CART
+- Random Forest Classifier
+- SVM Bagging Classifier
+- AdaBoost Classifier
+- Gradient Boosting Classifer
+- XGBoost  
+- Neural Network
+
+## list of factors
 
 
-
-
-models.append(('LR', LogisticRegression(solver='liblinear', multi_class='ovr')))
-models.append(('NB', GaussianNB()))
-models.append(('LDA', LinearDiscriminantAnalysis()))
-models.append(('KNN', KNeighborsClassifier()))
-models.append(('SVM', SVC(gamma='auto')))
-models.append(('CART', DecisionTreeClassifier()))
-models.append(('BAG', BaggingClassifier(base_estimator=DecisionTreeClassifier(random_state=1), n_estimators=100, random_state=1)))
-models.append(('FOREST',RandomForestClassifier(n_jobs=2, random_state=0)))
-models.append(('ADA',AdaBoostClassifier(base_estimator=DecisionTreeClassifier(max_depth=2, random_state=1), n_estimators=20, random_state=1)))
-models.append(('GBoost',GradientBoostingClassifier()))
+## Out of sample Accuracy
