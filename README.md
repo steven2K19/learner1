@@ -17,23 +17,23 @@ inspired by Keywan Christian Rasekhschaffe and Robert C. Jones
 - Neural Network
 
 ## Fundamental Efficiency
--Receivable turnover
--Inventory turover
--Payable turnover
--Cash Conversion Cycle
--Working capital turnover
--Asset turnover(asset utilization)
--Capital turnover(capital utilization)
+- Receivable turnover
+- Inventory turover
+- Payable turnover
+- Cash Conversion Cycle
+- Working capital turnover
+- Asset turnover(asset utilization)
+- Capital turnover(capital utilization)
 ## Fundamental Investment
--% change in depreciation
--Depreciation / PP&E ratio
--Corporate investment
--Capital expenditures
--Change in inventory
--R&D increase
--R&D to sales
--Real estate holdings
--Reinvest ratio
+- % change in depreciation
+- Depreciation / PP&E ratio
+- Corporate investment
+- Capital expenditures
+- Change in inventory
+- R&D increase
+- R&D to sales
+- Real estate holdings
+- Reinvest ratio
 ## Fundamental Leverage & Liquidity
 Secured debt indicator
 Convertible debt indicator
