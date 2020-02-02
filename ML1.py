@@ -24,8 +24,8 @@ from sklearn.metrics import accuracy_score
 # dataset.hist()
 # scatter_matrix(dataset)    
 array = dataset.values
-X = array[:,0:4]
-y = array[:,4]
+X = array[:,0:99]
+y = array[:,100]
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, y, test_size=0.20, random_state=1)
 
 
@@ -49,9 +49,9 @@ for name, model in models:
     results.append(cv_results)
     names.append(name)
     print('%s: %f (%f)' % (name, cv_results.mean(), cv_results.std()))
-# plt.boxplot(results, labels=names)    visualize result
+# plt.boxplot(results, labels=names)  
 
-# prediction by SVC, SVC is most accurated algorithm from model comparison
+# prediction by SVC 
 model = SVC(gamma='auto')
 model.fit(X_train, Y_train)
 predictions = model.predict(X_validation)
