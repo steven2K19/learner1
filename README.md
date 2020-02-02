@@ -277,11 +277,11 @@ inspired by Keywan Christian Rasekhschaffe and Robert C. Jones
 - 2.Initial Claims unemlopyment Insurance
 - 3.Building Permits for New Private Housing Units 
 - 4.Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the United States
-- 5. Average Weekly Hours of Production and Nonsupervisory Employees: Manufacturing
+- 5.Average Weekly Hours of Production and Nonsupervisory Employees: Manufacturing
 - 6.Value of Manufacturers' New Orders for Consumer Goods: Consumer Durable Goods Industries
 - 7.Value of Manufacturers' New Orders for Capital Goods: Nondefense Capital Goods Industries
 - 8.SP500 Index
-- 9. ISM® Index of New Orders
+- 9.ISM® Index of New Orders
 - 10.Leading Credit Index
 
 
