@@ -1,4 +1,3 @@
-from pandas import read_csv
 from matplotlib import pyplot as plt
 from pandas.plotting import scatter_matrix
 from sklearn.model_selection import train_test_split
@@ -20,13 +19,10 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 
-url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv"
-names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'class']
-dataset = read_csv(url, names=names)
-# dataset.groupby('class').size()
+
 # dataset.plot(kind='box', subplots=True, layout=(2,2), sharex=False, sharey=False)
 # dataset.hist()
-# scatter_matrix(dataset)       # plt.savefig('1.png')
+# scatter_matrix(dataset)    
 array = dataset.values
 X = array[:,0:4]
 y = array[:,4]
