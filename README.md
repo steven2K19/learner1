@@ -2,7 +2,7 @@
 inspired by Keywan Christian Rasekhschaffe and Robert C. Jones 
 ![1](https://user-images.githubusercontent.com/46503526/73234417-ffee7800-4157-11ea-8234-b99cdce1aa65.PNG)
 
-## List of algorithm
+## List of Algorithm
 - Logistic Regression
 - Naive Bayes
 - Linear Discriminant Analysis 
