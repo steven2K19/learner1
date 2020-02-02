@@ -283,7 +283,60 @@ inspired by Keywan Christian Rasekhschaffe and Robert C. Jones
 - 8.SP500 Index
 - 9.ISM® Index of New Orders
 - 10.Leading Credit Index
-
-
-
-
+## Business
+- Nonfinancial corporate business; debt securities; liability, Level
+- nonfinancial corporate business: Net operating surplus
+- Corp debt yield       NOI/Debt
+- Capacity Utilization: Total Industry
+- Manufacturing Sector: Labor Productivity
+- Commercial Real estate Loans, All Commercial Banks
+- Commercial Real estate Loan Delinquency
+- Delinquency Rate on Commercial and Industrial Loans
+- Retail sales & Growth
+- Retailers: Inventories to Sales Ratio
+- Industrial Production Index IPI
+- Producer Price index PPI
+- Current Hiring Index
+- Construction Spending
+- Manufacturing Confidence Indicators
+## Consumer
+- All Employees, Total Nonfarm PAYEMS;
+- Job Openings: Total Nonfarm; & Growth
+- Average Weekly Hours of All Employees, Total Private
+- Unemployment Rate
+- Personal Income PI
+- Disposable personal income   DPI
+- Personal Consumption Expenditures & Growth  PCE
+- Personal Saving Rate
+- Housing Starts: Total: New Privately Owned Housing Units
+- New One Family Houses Sold
+- S&P/Case-Shiller Home Price
+- Total Vehicle Sales
+- Total Consumer Credit Owned and Securitized, Outstanding
+- Consumer Debt Service/ Disposable Personal Income
+## Fiscal
+- Current account = Export - Import + Received income - Paid income
+- Net Exports of Goods and Services
+- Capital Account = Foreign direct Invest + Portfolio invest + other invest + reserve
+- Total Reserves excluding Gold
+- Foreign direct invest
+- Federal Government Current Receipts
+- Federal Government: Current Expenditures
+- Federal Debt: Total Public Debt
+- Total Public Debt as Percent of Gross Domestic Product
+- All sectors; debt securities and loans; liability, Level
+- Federal Debt Held by Foreign and International Investors
+## Monetary
+- Open Market Operations Federal Fund Rate FEDFUNDS 
+- Discount Rate: primary credit rate for Commercial bank  DPCREDIT
+- Interest on Required Reserve  IORR 
+- Reserve Requirement: RESBALNS    
+- Term Deposits Held by Depository Institutions, Other Than Reserve Balances TERMT
+- Overnight Reverse Repurchase Agreements   RRPONTSYD
+- Excess Reserves of Depository Institutions   EXCSRESNS
+- Real M2 Supply & Growth
+- Fred Balance sheet
+- Real GDP
+- Real Potential GDP
+- Inflation CPI Core
+- Taylor federal fund rate
