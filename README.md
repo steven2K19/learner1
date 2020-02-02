@@ -150,8 +150,8 @@ inspired by Keywan Christian Rasekhschaffe and Robert C. Jones
 - Number of earnings increases
 - Dividend initiation
 - Dividend omission
-## Technical Price momentum
-- 1-month momentum
+## Technical Basic
+- 1-month momentum(SMA or EMA or MACD)
 - 6-month momentum
 - 12-month momentum
 - 36-month momentum
@@ -160,14 +160,30 @@ inspired by Keywan Christian Rasekhschaffe and Robert C. Jones
 - Industry momentum
 - Momentum Oscillactor ROC
 - Relative Strength Index RSI
-- Relative Strength index RSI
-- Moving average 10, 20, 60,
-- Exponential moving average 5,10,20,60,120D
-- MA converge/diverge MACD Oscillator (chart)
-- Bollinger Bands:
+- Stochastic Oscillator SR
+- Bollinger Bands:     bb = sma ± 2*std 
 - Stochastic Oscillator
 - Average True Range ATR rate
 - Money Flow Index MFI
+- Keltner Channel (KC) kc = EMA ± 2*ATR
+- Donchian Channel (DC)
+- Ichimoku 
+- Parabolic SAR
+- Awesome Oscillator (AO)   
+- Kaufman's Adaptive Moving Average (KAMA)
+- Money Flow Index (MFI)
+- True strength index (TSI) 
+- Ultimate Oscillator (UO)  
+- Williams %R (WR) 
+## Technical price trend
+- Average Directional Movement Index (ADX)
+- Aroon Indicator   
+- Commodity Channel Index (CCI) 
+- Detrended Price Oscillator (DPO) 
+- KST Oscillator   
+- Mass Index (MI)   
+- Trix
+- Vortex Indicator (VI) 
 ## Technical Volume
 - Relative Bid-ask spread
 - Depth of Market DOM
@@ -179,6 +195,14 @@ inspired by Keywan Christian Rasekhschaffe and Robert C. Jones
 - Volatility of liquidity (dollar trading volume)
 - Volatility of liquidity (share turnover)
 - Illiquidity
+- Accumulation/Distribution Index (ADI)  
+- Chaikin Money Flow (CMF) 
+- Ease of Movement (EoM, EMV)  
+- Force Index (FI) 
+- Negative Volume Index (NVI)
+- On-Balance Volume (OBV) 
+- Volume-price Trend (VPT)
+
 ## Risk Factors
 - Return volatility
 - Earnings volatility
@@ -203,6 +227,7 @@ inspired by Keywan Christian Rasekhschaffe and Robert C. Jones
 - Wacc: Cost of Capital
 - Economic Value added EVA
 - Growth potential PVGO
+- YANG-ZHANG Volatility (OHLC)
 - Sharpe ratio=(Rp-Rf)/σp
 - Treynor ratio = (Rp-Rf)/βp
 - M-Square= (Rp-Rf)* σm/σp - (Rm-Rf)
@@ -210,6 +235,7 @@ inspired by Keywan Christian Rasekhschaffe and Robert C. Jones
 - Sortino Ratio=(ERp-Rtarget)/TSSD
 
 ## Sentimental Factor
+- Arms/Trin Index 
 - Implied Volatility by option
 - Institutional/Retail Investment activity
 - Wall Street earning expectionation
